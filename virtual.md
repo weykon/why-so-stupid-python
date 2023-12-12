@@ -25,7 +25,7 @@ left pic show a question, did it run full in payload at this gpu ? and the recog
 
 then I check the gpu usage rate only at 20%.
 
-I upload the file that can identify gpu and running fine.
+## I upload the file that can identify gpu and running fine.
 https://github.com/weykon/with-tensorflow-mac-official/blob/main/env.prepare.sh
 
 and the picture may said the gpu memory usage.
